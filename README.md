@@ -1,27 +1,27 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+# Homework #8
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+## Instructions
+---
+1. Create a new repository called `<your_github_username>.github.io`.  Create a directory on your computer called `blog`.  Navigate into `blog` and follow the list of commands on Github to connect your directory to the repo you just created.
 
-## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-clean-blog.git`
-* Fork the repo
+2. Go to https://startbootstrap.com/ and download a free template.  Add the template files to your repository, commit them, and push them up to your Github repo.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
+3. Using the template customize your content.  Commit and push any changes you make.  Veryify that your code is hosted at `<your_github_username>.github.io`.
 
-## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+---
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+### Extra Credit
 
-## Copyright and License
+1. Buy a custom domain name from Namecheap.  Add a `CNAME` file to your repository's main directory.  You then need to go to namecheap and add three records to your domain.
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+	* A record for @ pointing to 192.30.252.153
+	* A record for @ pointing to 192.30.252.154
+	* CNAME record for www pointing to `<your_github_username.github.io>`
+	* Reference the URL below.
+	* It can take up to 24 hours for the domain to properly show up.
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
