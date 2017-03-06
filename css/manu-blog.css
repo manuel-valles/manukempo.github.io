@@ -133,7 +133,7 @@ hr.small {
   }
 }
 .intro-header {
-  background-image: url(https://manukempo.github.io/img/home-bg.jpg);
+  background-image: url("img/home-bg4.jpg");
   background-color: #777777;
   background: no-repeat center center;
   background-attachment: scroll;
@@ -174,12 +174,6 @@ hr.small {
   font-weight: 300;
   margin: 10px 0 0;
 }
-@media only screen and (min-width: 768px) {
-  .intro-header .site-heading h1,
-  .intro-header .page-heading h1 {
-    font-size: 80px;
-  }
-}
 .intro-header .post-heading h1 {
   font-size: 35px;
 }
@@ -202,14 +196,6 @@ hr.small {
 }
 .intro-header .post-heading .meta a {
   color: white;
-}
-@media only screen and (min-width: 768px) {
-  .intro-header .post-heading h1 {
-    font-size: 55px;
-  }
-  .intro-header .post-heading .subheading {
-    font-size: 30px;
-  }
 }
 .post-preview > a {
   color: #333333;
